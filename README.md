@@ -7,5 +7,8 @@ The main code for the numerical experiment.
 ## ou_experiment.cpp
 The Rcpp part of the code "run_ou_experiment.R".
 
+## ou_experiment.rds
+The RDS file for the result of the experiment.
+
 ## plot_distance_entrywise.R, plot_heatmap.R
 The codes for figures in the preprint.
